@@ -4,7 +4,6 @@
 # Verson: 0.2
 # Date: 2020.12.14
 # Author:  Wu Qing
-# Email: cipn@qq.com
 # This is used to call Codeml to calculate the positive selection of gene in Branch-Sites Model.(Require codon sequence)
 # Usage: python3 callCodeml.py seqDir treeFile
 
